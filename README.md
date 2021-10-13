@@ -40,11 +40,14 @@ Visualization 5:User trips by Gender by Week Day
 
 Shows the number of bike trips by gender for each hour for each day of the week as a heatmap. Comparing between subscribers and customers, subscribers tend to use the bike trip more often than the customers and again on the subscribers side male tend to use bike trips more often than female while male and female customers used almost the same level while comparing the customers
 
+
 Other Worksheets
 Visualization 6: Top Starting Location
+<img width="899" alt="Screen Shot 2021-10-13 at 6 52 29 PM" src="https://user-images.githubusercontent.com/57809798/137223354-a08d979b-51be-4071-a779-f045295e5142.png">
 From the map top station coordinates are 40.7519, -73.977 and the count is 16564
 Visualization 7: August Peak Hours
 The map shows the peak hours during the month of August with respect to the number of rides with highest being from 5pm to 6pm of 224566 and lowest at 4am to 5am of  5373
+<img width="1043" alt="Screen Shot 2021-10-13 at 6 53 00 PM" src="https://user-images.githubusercontent.com/57809798/137223400-c1fb41dd-8dce-481f-87c2-1b8833d3ade6.png">
 
 # Summary
 The visualizations resulted in successful interpretation of Citi Bike rides dataset showing time that bikes are checked, the location, gender, and usertype. With the datasets we can visualize more data interpretaions with respect to bike id, end coordinates and other data dimension combinations 
