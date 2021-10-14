@@ -23,6 +23,8 @@ Visualization 2: Checkout Times by Gender
 Displays the length of time that bikes are checked out for each gender, we can observe that checkouts by male gender are more than female but the checkout time range remains the same for each gender
 
 Visualization 3: Trips by Weekday
+
+
 <img width="566" alt="Screen Shot 2021-10-13 at 6 37 26 PM" src="https://user-images.githubusercontent.com/57809798/137222035-add7293e-5eb9-42a8-910b-b354b6af5da7.png">
 
 
